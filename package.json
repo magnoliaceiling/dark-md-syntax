@@ -1,7 +1,7 @@
 {
   "name": "dark-md-syntax",
   "theme": "syntax",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Just a not shit dark theme for writing Markdown in Atom.",
   "keywords": [
     "syntax",
